@@ -1,4 +1,4 @@
-The BibleTime team
-==================
+The BibleTime Project
+=====================
 
-Welcome to the GitHub page of BibleTime developers.
+Welcome to the GitHub page of the BibleTime Project.
